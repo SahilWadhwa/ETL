@@ -1,0 +1,11 @@
+wishes, -> 1
+but -> 1
+the -> 4
+wish -> 11
+won't -> 1
+witch -> 1
+i -> 2
+to -> 3
+, -> 1
+if -> 1
+you -> 3
